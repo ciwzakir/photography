@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1,
+        "name": "Basic Wedding Photography Services",
+        "image": "./Images/Services/image-1.jpg",
+        "description": "If you do not know which one to go for and are looking to have your loved ones surrounding you, you might want to consider the traditional package. The wedding photo albums tend to include many traditional shots with you and your partner posing, then posing with the family, the extended family, the friends, and so on your partner posing, then posing with the family, the extended family, the friends, and so on",
+        "price": 10000
+    },
+    {
+        "id": 2,
+        "name": "Pre Wedding Photography Services",
+        "image": "./Images/Services/image-2.jpg",
+        "description": "Keep in mind that the duration of the photography coverage will determine the final price. For this reason, it is a good idea to know in advance what you are looking for and how much time should be spent on each element. This type of option allows for a good eight hours of photography coverage and editing. On your special day or for the photo session, the photographer(s) will take thousands of photos",
+        "price": 24500
+    },
+    
+    {
+        "id": 3,
+        "name": "Premium Plus Wedding Photography Services",
+        "image": "./Images/Services/image-3.jpg",
+        "description": "This wedding package option is great if your budget allows it as you can take all the time you want without rushing to capture this special day with all your loved ones. The package includes photography of the engagement, bridal and wedding day including of course the reception. Some elements from the packages but now also include unlimited images from up to ten hours of coverage",
+        "price": 61000
+    }
+]   
